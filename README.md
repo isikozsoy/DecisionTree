@@ -1,2 +1,2 @@
 # DecisionTree
-Decision tree implemetation
+A training algorithm is implemented that builds a decision tree from a training data set. Learning is done by partitioning the set of training examples into smaller and smaller subsets where each subset is as pure as possible. Information gain metric is used to select the feature for decision. Furthermore, test functions are implemented to observe the accuracy of the train function.
